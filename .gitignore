@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+app_backup.py
+survey_data.csv
+survey_data_cleaned.csv
+Untitled.ipynb
+Health_Survey_Analysis.ipynb
+*.png
+export_data.py
+test_auth.py
+test_connection.py
+test_insert.py
